@@ -114,7 +114,7 @@ python main.py <path of dataset>
 - Test the model on a larger, more diverse dataset.
 
 ## Contributors
-- my Name: [lamiaa khairy ibrahim](#"my link of git hup)
+- my Name: [lamiaakhairyibrahim]((https://github.com/lamiaakhairyibrahim))
 
 
 
